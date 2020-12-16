@@ -39,3 +39,8 @@ h1.t{
 	text-shadow: 1px 1px 3px #FFFFFF;
 	
 }
+
+p.s{
+	text-align: justify;
+	color: #ADADAD;
+}
