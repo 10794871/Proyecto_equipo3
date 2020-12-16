@@ -27,5 +27,9 @@ li a:hover {
 }
  
 table.p{
- padding: 40px 45px;
+ padding: 40px 40px 40px 40px;
+}
+
+p{
+	text-align: justify;
 }
