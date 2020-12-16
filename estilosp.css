@@ -1,1 +1,17 @@
-hoja estilos pablo
+
+img {
+  opacity: 0.8;
+}
+
+img:hover {
+  opacity: 1.0;
+}
+ul.a {
+  list-style-type: square;
+}
+body {
+  background-color: #9DC9F4;
+}
+div {
+  text-align: justify;
+}
