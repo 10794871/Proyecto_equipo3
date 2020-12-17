@@ -49,3 +49,11 @@ p.s{
 	text-align: justify;
 	color: #4B4B4B;
 }
+
+img:hover {
+  opacity: 1;
+}
+
+img.e {
+  opacity: 0;
+}
