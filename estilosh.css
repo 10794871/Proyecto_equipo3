@@ -36,3 +36,6 @@ li a {
 li a:hover {
  background-color: #60AAF2;
 }
+img:hover {
+  opacity: 0.5;
+}
