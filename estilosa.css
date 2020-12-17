@@ -36,6 +36,11 @@ p{
 
 h1.t{
 	text-align: center;
+	text-shadow: 4px 4px 5px blue;
+  	color: white;
+	
+}
+h2.t{
 	text-shadow: 1px 1px 3px #FFFFFF;
 	
 }
