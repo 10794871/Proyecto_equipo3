@@ -33,3 +33,10 @@ h1{
 ul.b {
   list-style-type: square;
 }
+
+h1.t{
+
+	text-align: center;
+	text-shadow: 4px 4px 5px black;
+ 	color: white;
+}
