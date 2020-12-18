@@ -57,3 +57,11 @@ img:hover {
 img.e {
   opacity: 0;
 }
+
+div.relative {
+  position: relative;
+  left: 30px;
+  right:500px;
+  bottom:30px;
+  top:300px;
+}
