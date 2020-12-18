@@ -24,7 +24,7 @@ ul.b
 
 
 
-   li b {
+   li {
 
 
     float: left;
@@ -38,7 +38,7 @@ ul.b
 
 
 
-   li b {
+   li a {
 
 
     display: block;
