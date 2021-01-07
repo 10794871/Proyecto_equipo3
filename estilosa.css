@@ -63,3 +63,7 @@ div {
   border: 15px solid;
   padding: 50px;
 }
+
+td {
+  text-align: center;
+}
