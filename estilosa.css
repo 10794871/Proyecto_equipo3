@@ -50,8 +50,8 @@ p.s{
 	color: #4B4B4B;
 }
 
-img:hover {
-  opacity: 1;
+img.e:hover {
+  opacity: 0.8;
 }
 
 img.e {
