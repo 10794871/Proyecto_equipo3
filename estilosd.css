@@ -22,10 +22,6 @@ li a:hover {
   background-color: #60AAF2;
 }
 
-body {
-  background-color: #9DC9F4;
-}
-
 h1{ 
 	text-align: left;
 	color: white;
@@ -39,4 +35,8 @@ h1.t{
 	text-align: center;
 	text-shadow: 4px 4px 5px black;
  	color: white;
+}
+
+body {
+  background-image: url("images/avion.jpg");
 }
