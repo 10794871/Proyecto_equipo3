@@ -48,6 +48,7 @@ h2.t{
 p.s{
 	text-align: justify;
 	color: #4B4B4B;
+	background-color: #9DC9F4;
 }
 
 img.e:hover {
@@ -68,9 +69,6 @@ td {
   text-align: center;
 }
 
-th.f{
-background-color: #9DC9F4;
-}
 
 
 
