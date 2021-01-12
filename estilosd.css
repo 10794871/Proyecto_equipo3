@@ -30,13 +30,24 @@ ul.b {
   list-style-type: square;
 }
 
+
+a {
+  color: hotpink;
+}
+
 h1.t{
 
 	text-align: center;
-	text-shadow: 4px 4px 5px black;
- 	color: white;
+	text-shadow: 4px 4px 5px #9DC9F4;
+ 	color: black;
 }
-
 body {
   background-image: url("images/avion.jpg");
 }
+
+b2.d { background-color: #9DC9F4;
+}
+
+c1.a { background-color: #D7BDE2;
+}
+
