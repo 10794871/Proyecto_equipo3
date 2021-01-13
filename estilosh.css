@@ -36,6 +36,10 @@ li a {
 li a:hover {
  background-color: #60AAF2;
 }
-img:hover {
+img.e :hover {
   opacity: 0.5;
+}
+
+p{
+	text-align: justify;
 }
