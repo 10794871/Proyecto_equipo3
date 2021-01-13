@@ -56,3 +56,8 @@ h1.t{
   	color: black;
 	
 }
+
+p.g {
+  color: grey;
+  text-align: center;
+}
