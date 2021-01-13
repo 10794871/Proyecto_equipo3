@@ -47,3 +47,9 @@ p.s{
 	text-align: justify;
 	background-color: #9DC9F4;
 }
+h1.t{
+	text-align: center;
+	text-shadow: 4px 4px 5px #9DC9F4;
+  	color: black;
+	
+}
