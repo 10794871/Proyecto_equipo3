@@ -36,10 +36,8 @@ li a {
 li a:hover {
  background-color: #60AAF2;
 }
-img.e {
-  opacity: 0.8;
-}
-img.e :hover {
+
+img :hover {
   opacity: 0.5;
 }
 
@@ -60,14 +58,4 @@ h1.t{
 p.g {
   color: grey;
   text-align: center;
-}
-
-p . d {
-	color de fondo : #9DC9F4 ;
-	alinear texto : justificar;
-}
-
-p . un {
-	color de fondo : #D7BDE2 ;
-	alinear texto : justificar;
 }
