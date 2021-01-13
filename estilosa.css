@@ -106,7 +106,12 @@ textarea {
     box-sizing: border-box;
 }
 
-
+img:hover {
+  opacity: 1;
+}
+img.e:hover {
+  opacity: 0.8;
+}
 
 
 
