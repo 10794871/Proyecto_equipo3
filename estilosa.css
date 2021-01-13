@@ -112,6 +112,9 @@ img:hover {
 img.e:hover {
   opacity: 0.8;
 }
+img.e{
+  opacity: 1;
+}
 
 
 
