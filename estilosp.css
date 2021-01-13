@@ -99,17 +99,21 @@ div {
   text-align: justify;
 }
 
-
+p{
+	text-align: justify;
+}
+p.s{
+	text-align: justify;
+	background-color: #9DC9F4;
+}
 h1.t{
-
-
-
-
 	text-align: center;
+	text-shadow: 4px 4px 5px #9DC9F4;
+  	color: black;
+	
+}
 
-
-	text-shadow: 4px 4px 5px black;
-
-
- 	color: white;
-
+p.g {
+  color: grey;
+  text-align: center;
+}
