@@ -45,9 +45,19 @@ body {
   background-image: url("images/avion.jpg");
 }
 
-b2.d { background-color: #9DC9F4;
+p.d { 
+	background-color: #9DC9F4;
+	text-align: justify;
 }
 
-c1.a { background-color: #D7BDE2;
+p.a { 
+	background-color: #D7BDE2;
+	text-align: justify;
 }
-
+p{
+	text-align: justify;
+}
+p.g {
+  color: grey;
+  text-align: center;
+}
