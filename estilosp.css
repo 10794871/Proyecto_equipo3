@@ -117,3 +117,11 @@ p.g {
   color: grey;
   text-align: center;
 }
+p.a { 
+	background-color: #D7BDE2;
+	text-align: justify;
+}
+p.d { 
+	background-color: #9DC9F4;
+	text-align: justify;
+}
