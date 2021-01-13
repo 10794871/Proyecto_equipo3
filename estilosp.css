@@ -82,11 +82,11 @@ p{
 
 
 
-img.e {
+img {
   opacity: 0.8;
 }
 
-img.e :hover {
+img:hover {
   opacity: 1.0;
 }
 ul.a {
