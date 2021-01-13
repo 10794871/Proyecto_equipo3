@@ -91,6 +91,8 @@ img:hover {
 }
 ul.a {
   list-style-type: square;
+  background-color: #9DC9F4;
+  text-align: justify;
 }
 body {
   background-image: url("images/avion.jpg");
