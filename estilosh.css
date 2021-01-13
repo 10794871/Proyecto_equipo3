@@ -43,3 +43,7 @@ img.e :hover {
 p{
 	text-align: justify;
 }
+p.s{
+	text-align: justify;
+	background-color: #9DC9F4;
+}
